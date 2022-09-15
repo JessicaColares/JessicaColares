@@ -1,7 +1,7 @@
 ## 🌸🌸 Oi eu sou a Jessica Colares, aprendiz de programação! 🌸🌸
 
 
-- 🌷 I’m currently working on ...
+- 🌷 I’m currently working on HTML
 - 🍓 I’m currently learning CSS
 - 📫 How to reach me: mscolares7@gmail.com
 - 🌼 Pronouns: ela/dela
