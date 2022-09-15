@@ -17,7 +17,7 @@
   <img align="center" alt="jessica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jessica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jessica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="jessica-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/891032139720699955/913871915247079524/download20211105151636.png">
+  <img align="right" alt="jessica-pic" height="150" style="border-radius:50px;" src="https://static.zerochan.net/Fire.Keeper.full.2542375.jpg">
 </div>
   
   ##
