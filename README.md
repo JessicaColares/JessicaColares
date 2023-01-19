@@ -13,10 +13,10 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="jessica-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jessica-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jessica-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jessica-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="jessica-Js" height="50" width="50" src="https://www.iconsdb.com/icons/preview/pink/js-xxl.png">
+  <img align="center" alt="jessica-HTML" height="50" width="50" src="https://www.iconsdb.com/icons/preview/pink/html-xxl.png">
+  <img align="center" alt="jessica-CSS" height="50" width="50" src="https://www.iconsdb.com/icons/preview/pink/css-xxl.png">
+  <img align="center" alt="jessica-Python" height="50" width="50" src="https://www.iconsdb.com/icons/preview/pink/python-xxl.png">
   <img align="right" alt="jessica-pic" height="150" style="border-radius:50px;" src="https://static.zerochan.net/Fire.Keeper.full.2542375.jpg">
 </div>
   
