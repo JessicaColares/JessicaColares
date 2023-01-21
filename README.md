@@ -13,10 +13,10 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="jessica-Js" height="50" width="50" src="https://www.iconsdb.com/icons/preview/pink/js-xxl.png">
-  <img align="center" alt="jessica-HTML" height="50" width="50" src="https://www.iconsdb.com/icons/preview/pink/html-xxl.png">
-  <img align="center" alt="jessica-CSS" height="50" width="50" src="https://www.iconsdb.com/icons/preview/pink/css-xxl.png">
-  <img align="center" alt="jessica-Python" height="50" width="50" src="https://www.iconsdb.com/icons/preview/pink/python-xxl.png">
+  <img align="center" alt="jessica-Js" height="50" width="50" src="https://www.iconsdb.com/icons/preview/color/FCBAD3/js-xxl.png">
+  <img align="center" alt="jessica-HTML" height="50" width="50" src="https://www.iconsdb.com/icons/preview/color/FCBAD3/html-xxl.png">
+  <img align="center" alt="jessica-CSS" height="50" width="50" src="https://www.iconsdb.com/icons/preview/color/FCBAD3/css-xxl.png">
+  <img align="center" alt="jessica-Python" height="50" width="50" src="https://www.iconsdb.com/icons/preview/color/FCBAD3/python-xxl.png">
   <img align="right" alt="jessica-pic" height="150" style="border-radius:50px;" src="https://static.zerochan.net/Fire.Keeper.full.2542375.jpg">
 </div>
   
