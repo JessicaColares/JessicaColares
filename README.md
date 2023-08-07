@@ -3,7 +3,7 @@
 
 - 🌷 I’m currently working on HTML
 - 🍓 I’m currently learning CSS
-- 📫 How to reach me: mscolares7@gmail.com
+- 📫 How to reach me: jessica.colares@icomp.ufam.edu.br
 - 🌼 Pronouns: ela/dela
 
 <div align="center">
