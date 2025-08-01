@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/JessicaColares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaColares&theme=buefy&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaColares&layout=compact&langs_count=7&theme=buefy"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JessicaColares&theme=ambient_gradient&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JessicaColares&layout=compact&langs_count=7&theme=ambient_gradient"/>
 </div>
   
 <div style="display: inline_block"><br>
