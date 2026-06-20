@@ -1,8 +1,8 @@
 ## 🌸🌸 Oi eu sou a Jessica Colares, aprendiz de programação! 🌸🌸
 
 
-- 🌷 I’m currently working on Python
-- 🍓 I’m currently learning C
+- 🌷 I’m currently working on Python and C
+- 🍓 I’m currently learning java
 - 📫 How to reach me: jessica.colares@icomp.ufam.edu.br
 - 🌼 Pronouns: ela/dela
 
