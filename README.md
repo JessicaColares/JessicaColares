@@ -1,4 +1,4 @@
-## 🌸🌸 Oi eu sou a Jessica Colares, aprendiz de programação! 🌸🌸
+## 🌸🌸 Oi eu sou a Jessica Colares! 🌸🌸
 
 
 - 🌷 I’m currently working on Python and C
